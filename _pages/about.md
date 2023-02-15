@@ -22,6 +22,6 @@ I am a Theoretical Neuroscience PhD student advised by [Dr. Tatjana Tchumatchenk
 
 I work on protein dynamics in neurons that affect the synaptic plasticity and I study how such impact plays a role in network dynamics.
 
-You can know more about my current research in the [research]({% link projects.md | https://echorliu.github.io/projects/ %}) section.
+You can know more about my current research in the [research]({% link _pages/projects.md %}) section.
 
 Please feel free to contact me through my email: yuhong.echo.liu at gmail dot com.
