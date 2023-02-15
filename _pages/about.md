@@ -18,10 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Theoretical Neuroscience PhD student advised by [Dr. Tatjana Tchumatchenko](http://tchumatchenko.de/), affiliated with both University of Bonn and Univeristy of Mainz.
+I am a Theoretical Neuroscience PhD student advised by [Dr. Tatjana Tchumatchenko](http://tchumatchenko.de/), affiliated with University of Bonn and Univeristy of Mainz.
 
 I work on protein dynamics in neurons that affect the synaptic plasticity and I study how such impact plays a role in network dynamics.
 
 You can know more about my current research in the [research]({% link _pages/projects.md %}) section.
-
-Please feel free to contact me through my email: yuhong.echo.liu at gmail dot com.
