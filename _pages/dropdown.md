@@ -7,6 +7,7 @@ dropdown: true
 children:
     - title: hobby
       permalink: /publications/
+      
     # - title: divider
     # - title: projects
     #   permalink: /projects/
