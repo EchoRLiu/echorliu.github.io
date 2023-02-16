@@ -6,18 +6,18 @@ nav_order: 6
 dropdown: true
 children:
     - title: Rennrad
-      permalink: /project/
+      permalink: /Rennrad/
     - title: divider
     - title: MTB
-      permalink: /project/  
+      permalink: /MTB/  
     - title: divider
     - title: hiking
-      permalink: /project/  
+      permalink: /hiking/  
     - title: divider
     - title: sailing
-      permalink: /project/  
+      permalink: /sailing/  
     - title: divider
     - title: photography
-      permalink: /project/
+      permalink: /photography/
 
 ---
