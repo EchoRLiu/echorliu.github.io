@@ -5,14 +5,19 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
-    - title: hobby
-      permalink: /publications/
-      
-    # - title: divider
-    # - title: projects
-    #   permalink: /projects/
-    # - title: divider
-    # - title: blog
-    #   permalink: /blog_test/
+    - title: Rennrad
+      permalink: /project/
+    - title: divider
+    - title: MTB
+      permalink: /project/  
+    - title: divider
+    - title: hiking
+      permalink: /project/  
+    - title: divider
+    - title: sailing
+      permalink: /project/  
+    - title: divider
+    - title: photography
+      permalink: /project/
 
 ---
