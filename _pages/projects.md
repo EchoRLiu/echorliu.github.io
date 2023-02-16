@@ -1,9 +1,9 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: projects
+permalink: /projects/
 description: Here are some projects I am working on or have worked on before.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [current, past]
 horizontal: false
