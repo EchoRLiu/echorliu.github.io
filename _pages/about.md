@@ -24,4 +24,4 @@ My research focuses on studying protein dynamics in neurons that affect synaptic
 
 I earned my MS from Department of Applied Mathematics at [University of Washington](https://amath.washington.edu) in 2021. I worked with [Prof. Douglas Martin](https://stat.uw.edu/about-us/people/doug-martin) on robust Garch process modeling methods and [Prof. Juris Vagners](https://www.aa.washington.edu/people/faculty/vagners) in [AFSL](https://sites.uw.edu/afsl/) on applying computer vision to search and rescue missions.
 
-You can know more about my current and past research in the [research]({% link _pages/projects.md %}) section.
+You can know more about my current and past research in the [research]({% link _pages/researches.md %}) section.

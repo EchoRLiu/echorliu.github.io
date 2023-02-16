@@ -163,6 +163,9 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
+    permalink: /projects/:path/
+  researches:
+    output: true
     permalink: /research/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
