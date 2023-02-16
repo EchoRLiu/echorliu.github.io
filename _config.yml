@@ -47,7 +47,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 
 # Dimensions
 max_width: 800px
@@ -99,8 +99,8 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please feel free to tweet me or drop me an email. I try to answer every request :).
-
+  Please feel free to tweet me or drop me an email.  <br/><br/>
+  You can also reach me virtually on zoom: (link coming soon).
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
