@@ -15,7 +15,13 @@ children:
       permalink: /hiking/  
     - title: divider
     - title: sailing
-      permalink: /sailing/  
+      permalink: /sailing/
+    - title: divider
+    - title: chess
+      permalink: /chess/
+    - title: divider
+    - title: art
+      permalink: /art/  
     - title: divider
     - title: photography
       permalink: /photography/
