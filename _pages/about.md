@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="{{ site.bio}}">bio</a>, <a href="{{ site.cv}}">cv</a> # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="{% link _pages/bio.md %}">bio</a>, <a href="{% link _pages/cv.md %}">cv</a> # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
