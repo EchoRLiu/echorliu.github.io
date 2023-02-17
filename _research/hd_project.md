@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Huntington's Disease Model
+title: Huntington's Project
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
