@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="{{ site.bio}}">bio</a>, <a href="{{ site.cv}}">cv</a> # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,8 +17,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-[bio]({% link _pages/bio.md %}) | [cv]({% link _pages/cv.md %})
 
 I am a Theoretical Neuroscience PhD student working with [Prof. Dr. Tatjana Tchumatchenko](http://tchumatchenko.de/), affiliated with Faculty of Mathematics and Natural Sciences at [University of Bonn](https://www.uni-bonn.de/en), [University of Bonn Medical Center](https://www.ukbonn.de/forschung/), and [University of Mainz Medical Center](https://www.unimedizin-mainz.de/forschung/uebersicht.html).
 
