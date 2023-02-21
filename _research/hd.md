@@ -2,7 +2,7 @@
 layout: page
 title: Huntington's Disease
 description: How does Htt mutantion affect protein production in neurons?
-img: assets/rs_art/MID1pathway.pdf
+img: assets/rs_art/MID1pathway.png
 importance: 1
 category: protein production dynamics
 ---
