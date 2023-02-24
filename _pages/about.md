@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- [bio]({% link _pages/bio.md %}), [CV]({% link _pages/cv.md %})  -->
 
-I am a Theoretical Neuroscience PhD student working with [Prof. Dr. Tatjana Tchumatchenko](http://tchumatchenko.de/), affiliated with Faculty of Mathematics and Natural Sciences at [University of Bonn](https://www.uni-bonn.de/en), [University of Bonn Medical Center](https://www.ukbonn.de/forschung/), and [University of Mainz Medical Center](https://www.unimedizin-mainz.de/forschung/uebersicht.html).
+Hello! I am currently a Theoretical Neuroscience PhD student at [University of Bonn](https://www.uni-bonn.de/en), working with [Prof. Tatjana Tchumatchenko](http://tchumatchenko.de/), with affiliation at [University of Bonn Medical Center](https://www.ukbonn.de/forschung/), and [University of Mainz Medical Center](https://www.unimedizin-mainz.de/forschung/uebersicht.html).
 
-My research focuses on studying protein dynamics in neurons that affect synaptic plasticity and how such effect plays a role in network dynamics. I collaborate closely with [Prof. Dr. Sybille Krauss](https://biologie-uni-siegen.de/?mitarbeiter=prof-dr-sybille-krauss) and [Prof. Dr. Michael Schmeisser](https://www.unimedizin-mainz.de/anatomie/schmeisser-lab.html?L=1).
+My current research projects focus on studying protein dynamics in neurons that affect synaptic plasticity and how such effect plays a role in network dynamics. I collaborate closely with [Prof. Dr. Sybille Krauss](https://biologie-uni-siegen.de/?mitarbeiter=prof-dr-sybille-krauss) and [Prof. Dr. Michael Schmeisser](https://www.unimedizin-mainz.de/anatomie/schmeisser-lab.html?L=1).
 
 I earned my MS from Department of Applied Mathematics at [University of Washington](https://amath.washington.edu) in 2021. I worked with [Prof. Douglas Martin](https://stat.uw.edu/about-us/people/doug-martin) on robust Garch process modeling methods and [Prof. Juris Vagners](https://www.aa.washington.edu/people/faculty/vagners) in [AFSL](https://sites.uw.edu/afsl/) on applying computer vision to search and rescue missions.
 

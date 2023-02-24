@@ -1,6 +1,29 @@
+"EMBO":
+  url: https://journals.aps.org/
+  color: "#33006F"
+
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#33006F"
 
 "PhysRev":
   url: https://journals.aps.org/
+  color: "#33006F"
+
+
+
+"Scitech":
+  url: https://arc.aiaa.org/action/showPublications?pubType=meetingProc
+  color: "#835DAE"
+
+
+
+"Talk":
+  color: "#E8D3A2"
+"Poster":
+  color: "#D1B77A"
+
+
+
+"In Prep":
+  color: "#A0A0A0"

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: fun
-nav: true
+nav: false
 nav_order: 6
 dropdown: true
 children:
     - title: Rennrad
       permalink: /Rennrad/
-    - title: divider
-    - title: MTB
-      permalink: /MTB/  
+    # - title: divider
+    # - title: MTB
+    #   permalink: /MTB/  
     - title: divider
     - title: hiking
       permalink: /hiking/  

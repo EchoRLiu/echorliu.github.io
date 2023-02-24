@@ -100,7 +100,8 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   Please feel free to tweet me or drop me an email.  <br/><br/>
-  You can also reach me virtually on zoom: (link coming soon).
+  You can also reach me virtually on zoom: 518 458 8110.
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -115,9 +116,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Just my fascination for the science world # blog_name will be displayed in your blog page
+blog_name: How did they do it? # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: 
+blog_description: Since I started doing theoretical research, I start to think more closely about but what led to . The science world is vast and full of wonder. But how did we get here? How did the scientists do it? This blog is a collection of stories about the science behind the science and the sparks of human creativity. # blog description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -167,6 +168,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  outreach:
+    output: true
+    permalink: /outreach/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 10 # leave blank to include all the news in the `_news` folder
@@ -285,7 +289,7 @@ badges: # Display different badges for your pulications
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 4  # leave blank to always show all authors
+max_author_limit: 5  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 
