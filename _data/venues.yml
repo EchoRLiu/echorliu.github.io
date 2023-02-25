@@ -12,14 +12,12 @@
 
 
 
-"Scitech":
-  url: https://arc.aiaa.org/action/showPublications?pubType=meetingProc
+"Conf. Paper":
   color: "#835DAE"
 
 
-
 "Talk":
-  color: "#E8D3A2"
+  color: "#D1B77A"
 "Poster":
   color: "#D1B77A"
 
