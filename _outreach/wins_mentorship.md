@@ -9,4 +9,4 @@ category: mentorship
 
 Year: 2023-current
 
-***We are currently preparing for launching the mentorship program. Please check the [official website](https://sites.google.com/view/womeninnetworkscience/virtual-programs/mentoring) for more information!***
+***We are launching the mentorship program! Please check the [official website](https://sites.google.com/view/womeninnetworkscience/virtual-programs/mentoring) for more information!***
