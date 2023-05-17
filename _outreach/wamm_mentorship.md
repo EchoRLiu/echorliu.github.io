@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WiNS Mentorship Program
+title: WAMM Mentorship Program
 description: I was very fortunate and honored to be invited as a mentor for the Women in Applied Math Mentorship Program at the Applied Math Department at UW!
 img: assets/rs_art/wamm.jpeg
 importance: 2
