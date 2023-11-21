@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- [bio]({% link _pages/bio.md %}), [CV]({% link _pages/cv.md %})  -->
 
-Hello! I am currently a Theoretical Neuroscience Ph.D. student at [University of Bonn](https://www.uni-bonn.de/en), working with [Prof. Tatjana Tchumatchenko](http://tchumatchenko.de/), with affiliation at [University of Bonn Medical Center](https://www.ukbonn.de/forschung/), and [University of Mainz Medical Center](https://www.unimedizin-mainz.de/forschung/uebersicht.html).
+Hello! I am currently a Theoretical Neuroscience Ph.D. student at [University of Bonn](https://www.uni-bonn.de/en), working with [Prof. Tatjana Tchumatchenko](http://tchumatchenko.de/), with affiliation at [University of Bonn Medical Center](https://www.ukbonn.de/forschung/).
 
 My current research projects focus on studying protein dynamics in neurons that affect synaptic plasticity and how such effect plays a role in network dynamics. I collaborate closely with [Prof. Sybille Krauss](https://biologie-uni-siegen.de/?mitarbeiter=prof-dr-sybille-krauss), [Prof. Michael Schmeisser](https://www.unimedizin-mainz.de/anatomie/schmeisser-lab.html?L=1), and [Prof. Susann Schweiger](https://lir-mainz.de/mitarbeiter/susann-schweiger).
 
