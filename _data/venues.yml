@@ -10,7 +10,11 @@
   url: https://journals.aps.org/
   color: "#33006F"
 
+"Paper":
+  color: "#835DAE"
 
+"Preprint":
+  color: "#835DAE"
 
 "Conf. Paper":
   color: "#835DAE"

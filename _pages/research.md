@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Here are some projects I am working on or have worked on before
-nav: true
+nav: false
 nav_order: 2
 display_categories: [protein production dynamics, network dynamics, robust fitting methods, computer vision]
 horizontal: false
