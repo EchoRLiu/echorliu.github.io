@@ -28,4 +28,6 @@ Beyond mechanistic modelling, I develop computational tools and resources, inclu
 
 I am also deeply interested in teaching, mentoring, and community building. I have taught courses on parameter inference, mentored students at multiple career stages, and helped organize workshops and seminar series aimed at fostering interdisciplinary dialogue between mathematics and the life sciences.
 
-You can learn more about my current and past research in the [research]({% link _pages/research.md %}) section.
+<!-- I am also a huge fan of history of mathematics and how it can help us understand how math research has evolved and will evolve in the upcoming years. -->
+
+<!-- You can learn more about my current and past research in the [research]({% link _pages/research.md %}) section. -->
